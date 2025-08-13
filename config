@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/friendlyarm/build-env-on-ubuntu-bionic
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "cn"]
+	remote = origin
+	merge = refs/heads/cn
