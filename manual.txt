@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:c49bb21329082a00a46d3ec69a2747cfdeb05fbdb3d3a661065cc1140f892afe
 size 85
+=======
+http://adbdriver.com/documentation/how-to-install-adb-driver-on-windows-8-10-x64.html
+>>>>>>> 4651c81883964be0cc3c3d52a81ee0a029a0d585

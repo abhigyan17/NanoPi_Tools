@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:bce5b8874b00e0f51d4aba31c695bd38b42242b5e76a0be212b88425376c3bd7
 size 178
+=======
+# pack-refs with: peeled fully-peeled sorted 
+48430b54e9cf59215ee51b558cb52c4bafea9be7 refs/remotes/origin/cn
+d20b71534b2103fdc8fe129f8c6aed979e4ed6df refs/remotes/origin/master
+>>>>>>> 4651c81883964be0cc3c3d52a81ee0a029a0d585

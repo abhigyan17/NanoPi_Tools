@@ -1,3 +1,17 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:617f100ee3024d5adfb4bf0dd52371b74b7b0845b28bac86169518d37c9ee1e7
 size 274
+=======
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/friendlyarm/build-env-on-ubuntu-bionic
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "cn"]
+	remote = origin
+	merge = refs/heads/cn
+>>>>>>> 4651c81883964be0cc3c3d52a81ee0a029a0d585

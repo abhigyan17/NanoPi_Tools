@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5
 size 189
+=======
+#!/bin/sh
+#
+# An example hook script to prepare a packed repository for use over
+# dumb transports.
+#
+# To enable this hook, rename this file to "post-update".
+
+exec git update-server-info
+>>>>>>> 4651c81883964be0cc3c3d52a81ee0a029a0d585
