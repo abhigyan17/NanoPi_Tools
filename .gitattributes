@@ -3,3 +3,5 @@ git lfs track "*.img"
 git lfs track "*.tar"
 git lfs track "*.gz"
 git lfs track "*.zip"
+git lfs track "*.xz"
+
