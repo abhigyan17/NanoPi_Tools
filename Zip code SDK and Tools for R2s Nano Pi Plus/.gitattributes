@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:235db0709bca0cda838db2ae71ef7059fad7e4071cb0af43354667e2f67be61d
+size 167
+=======
+git lfs track "*"
+git lfs track "*.img"  
+git lfs track "*.tar"
+git lfs track "*.gz"
+git lfs track "*.zip"
+git lfs track "*.xz"
+git lfs track "*.7z"
+>>>>>>> 4651c81883964be0cc3c3d52a81ee0a029a0d585
