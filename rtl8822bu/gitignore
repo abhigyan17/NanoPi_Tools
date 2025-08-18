@@ -1,0 +1,10 @@
+sftp-config.json
+*.o
+*.ko
+*.o.cmd
+*.cmd
+*.mod
+*.mod.c
+.tmp_versions/
+Module.symvers
+modules.order
