@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/friendlyarm/sd-fuse_rk3328
+	fetch = +refs/heads/kernel-6.1.y:refs/remotes/origin/kernel-6.1.y
+[branch "kernel-6.1.y"]
+	remote = origin
+	merge = refs/heads/kernel-6.1.y
